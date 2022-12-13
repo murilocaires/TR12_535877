@@ -16,8 +16,8 @@
 
 <hr>
 <h2>Como baixar?</h2>
-<p>Instale o Git no seu computador:</p>
-<p>Para baixar digite:</p>
+<p>Instale o Git no seu computador.</p>
+<p>Para baixar digite no terminal:</p>
 
 <code>
 <span style="color: tomato">»</span> git clone https://github.com/murilocaires/TR12_535877.git
